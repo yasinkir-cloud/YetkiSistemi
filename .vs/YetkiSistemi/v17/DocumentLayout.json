@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\core\\newfolder\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\core\\newfolder\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\infrastructure\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\api\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\api\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\core\\entities\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\core\\entities\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\api\\controllers\\permissiondetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\api\\controllers\\permissiondetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\api\\filters\\permissioncheckattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\api\\filters\\permissioncheckattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\core\\entities\\permissiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\core\\entities\\permissiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\core\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\core\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|c:\\users\\yasin-k\u0131r-ar-herkes-\\desktop\\projeler\\yetkisistemi\\yetkisistemi\\yetkisistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFD5039E-8843-4635-82A3-A62DF53E2A9A}|YetkiSistemi\\YetkiSistemi.csproj|solutionrelative:yetkisistemi\\yetkisistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageController.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\PageController.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\API\\Controllers\\PageController.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\PageController.cs",
+              "RelativeToolTip": "YetkiSistemi\\API\\Controllers\\PageController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:57:06.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "YetkiSistemi\\API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:56:39.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\API\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "YetkiSistemi\\API\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:55:39.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Infrastructure\\Data\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Infrastructure\\Data\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Infrastructure\\Data\\GenericRepository.cs",
+              "RelativeToolTip": "YetkiSistemi\\Infrastructure\\Data\\GenericRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA+wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:27:54.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\appsettings.json",
+              "RelativeDocumentMoniker": "YetkiSistemi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\appsettings.json",
+              "RelativeToolTip": "YetkiSistemi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T08:34:13.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Program.cs",
+              "RelativeToolTip": "YetkiSistemi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:34:10.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "YetkiSistemi\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:36:30.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Core\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "YetkiSistemi\\Core\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:25:17.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "YetkiSistemi\\Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:24:35.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\NewFolder\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Core\\NewFolder\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\NewFolder\\Services\\AuthService.cs",
+              "RelativeToolTip": "YetkiSistemi\\Core\\NewFolder\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:26:13.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Entities\\Page.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Core\\Entities\\Page.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Entities\\Page.cs",
+              "RelativeToolTip": "YetkiSistemi\\Core\\Entities\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:10:00.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermissionDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\PermissionDetailController.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\API\\Controllers\\PermissionDetailController.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\PermissionDetailController.cs",
+              "RelativeToolTip": "YetkiSistemi\\API\\Controllers\\PermissionDetailController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:00:22.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\PermissionController.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\API\\Controllers\\PermissionController.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Controllers\\PermissionController.cs",
+              "RelativeToolTip": "YetkiSistemi\\API\\Controllers\\PermissionController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:02:44.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PermissionCheckAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Filters\\PermissionCheckAttribute.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\API\\Filters\\PermissionCheckAttribute.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\API\\Filters\\PermissionCheckAttribute.cs",
+              "RelativeToolTip": "YetkiSistemi\\API\\Filters\\PermissionCheckAttribute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:21:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "YetkiSistemi\\Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:28:02.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "YetkiSistemi\\Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:24:09.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Core\\Entities\\Permission.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Entities\\Permission.cs",
+              "RelativeToolTip": "YetkiSistemi\\Core\\Entities\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:11:19.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "YetkiSistemi\\Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:10:07.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PermissionDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Entities\\PermissionDetail.cs",
+              "RelativeDocumentMoniker": "YetkiSistemi\\Core\\Entities\\PermissionDetail.cs",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\Core\\Entities\\PermissionDetail.cs",
+              "RelativeToolTip": "YetkiSistemi\\Core\\Entities\\PermissionDetail.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:11:39.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "YetkiSistemi",
+              "DocumentMoniker": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\YetkiSistemi.csproj",
+              "RelativeDocumentMoniker": "YetkiSistemi\\YetkiSistemi.csproj",
+              "ToolTip": "C:\\Users\\Yasin-K\u0131r-AR-hErKeS-\\Desktop\\Projeler\\YetkiSistemi\\YetkiSistemi\\YetkiSistemi.csproj",
+              "RelativeToolTip": "YetkiSistemi\\YetkiSistemi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T08:53:47.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

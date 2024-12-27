@@ -1,0 +1,6 @@
+@YetkiSistemi_HostAddress = http://localhost:5115
+
+GET {{YetkiSistemi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
